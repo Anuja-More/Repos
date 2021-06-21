@@ -1,5 +1,4 @@
 
-In this assignment let's build a **Popular Repos**
 ### Resources
 
 #### Data Fetch URLs
